@@ -1,0 +1,6 @@
+export const certifications = [
+  { id: 'python', title: 'Python Essentials 1', provider: 'Cisco Networking Academy', category: 'TECHNICAL CERTIFICATION', tags: ['Python', 'Programming Fundamentals'], year: '2026', verification: '/certificates/Python_Essentials_1_certificate_chamodyarajapaksha088-gmail-com_f8f347cb-7e84-42d3-9441-5d24cd25aa0d.pdf', document: '/certificates/Python_Essentials_1_certificate_chamodyarajapaksha088-gmail-com_f8f347cb-7e84-42d3-9441-5d24cd25aa0d.pdf' },
+  { id: 'aws-cloud-practitioner', title: 'AWS Cloud Practitioner Essentials', provider: 'Amazon Web Services (AWS)', category: 'CLOUD COMPUTING CERTIFICATION', tags: ['AWS', 'Cloud Computing'], year: '2026', verification: '/certificates/aws cloud.pdf', document: '/certificates/aws cloud.pdf' },
+  { id: 'ml', title: 'Machine Learning Using Python', provider: 'Simplilearn SkillUp', category: 'TECHNICAL CERTIFICATION', tags: ['Machine Learning', 'Python'], year: '2026', verification: '/certificates/Simplilearn-AI & ML.pdf', document: '/certificates/Simplilearn-AI & ML.pdf' },
+  { id: 'ai', title: 'AI for Business Professionals', provider: 'HP LIFE', category: 'PROFESSIONAL LEARNING', tags: ['Artificial Intelligence', 'Business'], year: '2026', verification: '/certificates/AI for Business Professionals.pdf', document: '/certificates/AI for Business Professionals.pdf' },
+];
